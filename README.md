@@ -7,8 +7,9 @@ A command-line Hangman game written in Python. The computer picks a random word 
 1. Make sure you have Python 3 installed.
 2. Download or clone this repository.
 3. The final version of the game is in the `task` folder. Run it with:
-
+'''
    python task/main.py
+'''
 
 ## How it works
 
